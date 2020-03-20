@@ -5,7 +5,7 @@ class firstprograminjava
 	public static void main (String args[])
 		{
 			System.out.println("This is my first program in java");
-			for (int i=1; i<=100; i++)
+			for (int i=1; i<=1000; i++)
 			{
 				System.out.println(i);
 			}
